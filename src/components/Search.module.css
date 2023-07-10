@@ -24,10 +24,10 @@
   padding: 0.6rem;
   border-radius: 3px;
   border: none;
-  color: #2b3566;
+  color: #000000;
 }
 
 .search_container button {
-  background-color: #0e1129;
+  background-color: #282a3a;
   cursor: pointer;
 }
